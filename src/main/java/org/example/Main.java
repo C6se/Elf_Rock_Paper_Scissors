@@ -1,5 +1,4 @@
 package org.example;
-
 import java.io.IOException;
 
 public class Main {
